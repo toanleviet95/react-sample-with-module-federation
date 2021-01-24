@@ -17,5 +17,5 @@ Run `yarn` and `yarn start` inside each repo respectively. This will build and s
 Example referenced from https://github.com/module-federation/module-federation-examples/tree/master/basic-host-remote
 
 ## Demo
-App1: http://demo-module-federation-app1.surge.sh/
-App2: http://demo-module-federation-app2.surge.sh/
+- App1: http://demo-module-federation-app1.surge.sh/
+- App2: http://demo-module-federation-app2.surge.sh/
